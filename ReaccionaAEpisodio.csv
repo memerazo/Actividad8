@@ -1,0 +1,31 @@
+idUsuario,idEpisodio,reaccion,fechaReaccion
+1,1,Me gusta,2024-01-13
+1,2,No me gusta,2024-01-20
+1,3,Me encanta,2024-01-27
+2,2,Me gusta,2024-02-06
+2,3,Me encanta,2024-02-13
+2,4,No me gusta,2024-02-20
+3,3,Me gusta,2024-03-02
+3,4,No me gusta,2024-03-09
+3,5,Me encanta,2024-03-16
+4,4,Me gusta,2024-04-21
+4,5,No me gusta,2024-04-28
+4,6,Me encanta,2024-05-05
+5,5,Me gusta,2024-05-13
+5,6,No me gusta,2024-05-20
+5,7,Me encanta,2024-05-27
+6,6,Me gusta,2024-06-03
+6,7,No me gusta,2024-06-10
+6,8,Me encanta,2024-06-17
+7,7,Me gusta,2024-07-23
+7,8,No me gusta,2024-07-30
+7,9,Me encanta,2024-08-06
+8,8,Me gusta,2024-08-13
+8,9,No me gusta,2024-08-20
+8,10,Me encanta,2024-08-27
+9,9,Me gusta,2024-09-03
+9,10,No me gusta,2024-09-10
+9,1,Me encanta,2024-09-17
+10,10,Me gusta,2024-10-02
+10,1,No me gusta,2024-10-09
+10,2,Me encanta,2024-10-16

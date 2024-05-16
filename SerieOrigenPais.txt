@@ -1,0 +1,11 @@
+idSerie,idPais
+1,1  (Estados Unidos)  
+2,1  (Estados Unidos)  
+3,7  (Reino Unido)     
+4,7  (Reino Unido)     
+5,1  (Estados Unidos)  
+6,1  (Estados Unidos) 
+7,7  (Reino Unido)    
+8,1  (Estados Unidos)  
+9,7  (Reino Unido)     
+10,1 (Estados Unidos)  
