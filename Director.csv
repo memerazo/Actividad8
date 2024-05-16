@@ -1,11 +1,11 @@
 idDirector,nombre,edad,teléfono,sexo
-1,Francis Ford Coppola,81,555-0201,M
-2,Robert Zemeckis,69,555-0202,M
-3,Christopher Nolan,50,555-0203,M
-4,David Fincher,58,555-0204,M
-5,Ridley Scott,83,555-0205,M
-6,Christopher Nolan,50,555-0206,M (repetido para Interstellar)
-7,Peter Jackson,59,555-0207,M
-8,James Cameron,66,555-0208,M
-9,Lana Wachowski,55,555-0209,F
-10,Bong Joon-ho,52,555-0210,M
+1,Francis Ford Coppola,81,57555-0201,M
+2,Robert Zemeckis,69,571555-0202,M
+3,Christopher Nolan,50,572555-0203,M
+4,David Fincher,58,573555-0204,M
+5,Ridley Scott,83,574555-0205,M
+6,Peter Jackson,59,575555-0207,M
+7,James Cameron,66,576555-0208,M
+8,Lana Wachowski,55,577555-0209,F
+9,Bong Joon-ho,52,578555-0210,M
+10,Dago Garcia, 62, 579555-0211,M
