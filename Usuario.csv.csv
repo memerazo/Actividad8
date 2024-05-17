@@ -1,11 +1,11 @@
-idUsuario,nombre,edad,teléfono,sexo,teléfono móvil,email
-1,Juan Pérez,25,+57-555-0101,M,+57-555-0102,juan.perez@example.com
-2,Ana López,30,+57-555-0103,F,+57-555-0104,ana.lopez@example.com
-3,Carlos García,28,+57-555-0105,M,+57-555-0106,carlos.garcia@example.com
-4,Maria Fernández,22,+57-555-0107,F,+57-555-0108,maria.fernandez@example.com
-5,Luis Álvarez,34,+57-555-0109,M,+57-555-0110,luis.alvarez@example.com
-6,Sofía Romero,27,+57-555-0111,F,+57-555-0112,sofia.romero@example.com
-7,David Martín,36,+57-555-0113,M,+57-555-0114,david.martin@example.com
-8,Laura Torres,31,+57-555-0115,F,+57-555-0116,laura.torres@example.com
-9,Diego Sánchez,29,+57-555-0117,M,+57-555-0118,diego.sanchez@example.com
-10,Carmen Ruiz,24,+57-555-0119,F,+57-555-0120,carmen.ruiz@example.com
+idUsuario,nombre,edad,telefono,sexo,telefonoMovil,email
+1,Juan Pérez,25,+57-1-654-3210,M,+57-310-987-6543,juan.perez@gmail.com
+2,Ana López,30,+57-1-123-4567,F,+57-310-234-5678,ana.lopez@gmail.com
+3,Carlos García,28,+57-1-234-5678,M,+57-311-654-3210,carlos.garcia@Outlook.com
+4,Maria Fernández,22,+57-4-789-1234,F,+57-311-123-4567,maria.fernandez@example.com
+5,Luis Álvarez,34,+57-4-456-7890,M,+57-312-987-6543,luis.alvarez@gmail.com
+6,Sofía Romero,27,+57-5-543-2109,F,+57-312-345-6789,sofia.romero@Outlook.com
+7,David Martín,36,+57-5-432-1098,M,+57-555-0114,david.martin@gmail.com
+8,Laura Torres,31,+57-4-321-6543,F,+57-320-876-5432,laura.torres@gmail.com
+9,Diego Sánchez,29,+57-2-234-5678,M,+57-320-567-8901,diego.sanchez@Outlook.com
+10,Carmen Ruiz,24,+57-2-876-5432,F,+57-300-678-9012,carmen.ruiz@gmail.com
