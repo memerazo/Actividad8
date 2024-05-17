@@ -1,19 +1,22 @@
 idDirector,nombre,edad,telefono,sexo
-1,Francis Ford Coppola,81,57555-0201,M
-2,Robert Zemeckis,69,571555-0202,M
-3,Christopher Nolan,50,572555-0203,M
-4,David Fincher,58,573555-0204,M
-5,Ridley Scott,83,574555-0205,M
-6,Peter Jackson,59,575555-0207,M
-7,James Cameron,66,576555-0208,M
-8,Lana Wachowski,55,577555-0209,F
-9,Bong Joon-ho,52,578555-0210,M
-10,Dago Garcia,62,579555-0211,M
-11,Matt Duffer,42,580555-0212,M
-12,Ross Duffer,42,580555-0213,M
-13,Vince Gilligan,56,581555-0214,M
-14,David Benioff,51,582555-0215,M
-15,D.B. Weiss,50,582555-0216,M
-16,Peter Morgan,59,583555-0217,M
-17,Charlie Brooker,50,584555-0218,M
-18,Jon Favreau,54,585555-0219,M
+1,Francis Ford Coppola,81,+1-202-555-0101,M
+2,Robert Zemeckis,69,+1-202-555-0102,M
+3,Alejandro Landes,39,+57-301-555-0103,M
+4,David Fincher,58,+1-202-555-0104,M
+5,Ridley Scott,83,+44-7700-555-0105,M
+6,Christopher Nolan,50,+44-7700-555-0106,M
+7,Peter Jackson,59,+64-21-555-0107,M
+8,Harold Trompetero,50,+57-301-555-0108,M
+9,Gustavo Hernández,48,+598-2-555-0109,M
+10,Bong Joon-ho,52,+82-10-555-0110,M
+11,Matt Duffer,36,+1-202-555-0111,M
+12,Ross Duffer,36,+1-202-555-0112,M
+13,J.J. Abrams,54,+1-202-555-0113,M
+14,Shukō Murase,50,+81-3-555-0114,M
+15,Peter Morgan,58,+44-7700-555-0115,M
+16,Stefano Sollima,53,+39-06-555-0116,M
+17,José Padilha,54,+55-21-555-0117,M
+18,James Burrows,79,+1-202-555-0118,M
+19,Baran bo Odar,42,+49-30-555-0119,M
+20,Greg Daniels,57,+1-202-555-0120,M
+
